@@ -28,3 +28,7 @@ An AI player that chooses moves randomly and an AI player based on monte carlo t
     ```bash
     python3 main.py -p1 minimaxAI -limit_players 1 -visualize True
     ```
+
+Demo video:
+
+https://youtu.be/cYOIS4imYS0
