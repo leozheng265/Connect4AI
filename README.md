@@ -6,7 +6,7 @@ This project implemented two AI agents with minimax and alpha-beta pruning algor
 
 ## Demo
 
-[https://youtu.be/cYOIS4imYS0](https://youtu.be/cYOIS4imYS0)
+https://user-images.githubusercontent.com/61644743/195504499-892b2f78-17dd-44fa-85aa-27c7b7036573.mp4
 
 ## Running Instructions
 
