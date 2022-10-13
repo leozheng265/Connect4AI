@@ -2,9 +2,11 @@
 
 ## Introduction
 
-This project implemented two AI agents with minimax and alpha-beta pruning algorithms that is able to play Connect 4. 
+This project implemented two AI agents with minimax and alpha-beta pruning algorithms that is able to play Connect 4. An AI agents based on monte carlo tree search is also included for testing purposes.
 
-An AI player that chooses moves randomly and an AI player based on monte carlo tree search are also included for testing purposes.
+## Demo
+
+[https://youtu.be/cYOIS4imYS0](https://youtu.be/cYOIS4imYS0)
 
 ## Running Instructions
 
@@ -28,7 +30,3 @@ An AI player that chooses moves randomly and an AI player based on monte carlo t
     ```bash
     python3 main.py -p1 minimaxAI -limit_players 1 -visualize True
     ```
-
-## Demo video:
-
-https://youtu.be/cYOIS4imYS0
